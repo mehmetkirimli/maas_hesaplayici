@@ -1,0 +1,7 @@
+public class Main {
+    public static void main(String[] args) {
+
+        Employee W1 = new Employee("Mehmet Kirimli", 2000, 54, 2001);
+        W1.toInfo ();
+    }
+}
